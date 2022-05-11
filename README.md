@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuShanen
+- 👋 Hi, I’m @shine-yu-student
 - 👀 I’m interested in learning C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ???
